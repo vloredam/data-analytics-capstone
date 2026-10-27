@@ -1,0 +1,961 @@
+month,member_casual,station_role,station_rank,station_id,station_name,ride_count,identified_station_rides,share_of_identified_station_rides
+202508,casual,end,1,CHI01747,Navy Pier,11295,253712,4.45
+202508,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,5837,253712,2.3
+202508,casual,end,3,CHI00525,DuSable Lake Shore Dr & North Blvd,4954,253712,1.95
+202508,casual,end,4,CHI00252,Michigan Ave & Oak St,4857,253712,1.91
+202508,casual,end,5,CHI00420,Theater on the Lake,4151,253712,1.64
+202508,casual,end,6,CHI01742,Millennium Park,3534,253712,1.39
+202508,casual,end,7,CHI00533,Shedd Aquarium,2750,253712,1.08
+202508,casual,end,8,CHI00531,Dusable Harbor,2520,253712,0.99
+202508,casual,end,9,CHI00427,Montrose Harbor,2278,253712,0.9
+202508,casual,end,10,CHI01677,Michigan Ave & Washington St,1847,253712,0.73
+202508,casual,end,11,CHI01163,Michigan Ave & 8th St,1832,253712,0.72
+202508,casual,end,12,CHI00413,Clark St & Lincoln Ave,1813,253712,0.71
+202508,casual,end,13,CHI00313,Wabash Ave & Grand Ave,1805,253712,0.71
+202508,casual,end,14,CHI00360,Adler Planetarium,1776,253712,0.7
+202508,casual,end,15,CHI00474,Clark St & Armitage Ave,1723,253712,0.68
+202508,casual,end,16,CHI00450,Indiana Ave & Roosevelt Rd,1715,253712,0.68
+202508,casual,end,17,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1641,253712,0.65
+202508,casual,end,18,CHI00396,Wells St & Concord Ln,1526,253712,0.6
+202508,casual,end,19,CHI01749,Field Museum,1522,253712,0.6
+202508,casual,end,20,CHI00281,Clark St & Elm St,1505,253712,0.59
+202508,casual,start,1,CHI01747,Navy Pier,11133,262464,4.24
+202508,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,5999,262464,2.29
+202508,casual,start,3,CHI00252,Michigan Ave & Oak St,4858,262464,1.85
+202508,casual,start,4,CHI00525,DuSable Lake Shore Dr & North Blvd,4438,262464,1.69
+202508,casual,start,5,CHI00420,Theater on the Lake,3805,262464,1.45
+202508,casual,start,6,CHI01742,Millennium Park,3478,262464,1.33
+202508,casual,start,7,CHI00533,Shedd Aquarium,3109,262464,1.18
+202508,casual,start,8,CHI00531,Dusable Harbor,2829,262464,1.08
+202508,casual,start,9,CHI00427,Montrose Harbor,2346,262464,0.89
+202508,casual,start,10,CHI01163,Michigan Ave & 8th St,2147,262464,0.82
+202508,casual,start,11,CHI00360,Adler Planetarium,2014,262464,0.77
+202508,casual,start,12,CHI01749,Field Museum,1891,262464,0.72
+202508,casual,start,13,CHI00413,Clark St & Lincoln Ave,1856,262464,0.71
+202508,casual,start,14,CHI00474,Clark St & Armitage Ave,1818,262464,0.69
+202508,casual,start,15,CHI00450,Indiana Ave & Roosevelt Rd,1787,262464,0.68
+202508,casual,start,16,CHI01677,Michigan Ave & Washington St,1763,262464,0.67
+202508,casual,start,17,CHI00313,Wabash Ave & Grand Ave,1757,262464,0.67
+202508,casual,start,18,CHI00281,Clark St & Elm St,1703,262464,0.65
+202508,casual,start,19,CHI00279,New St & Illinois St,1637,262464,0.62
+202508,casual,start,20,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1599,262464,0.61
+202508,member,end,1,CHI00299,Kingsbury St & Kinzie St,3635,351705,1.03
+202508,member,end,2,CHI00281,Clark St & Elm St,3059,351705,0.87
+202508,member,end,3,CHI00396,Wells St & Concord Ln,2579,351705,0.73
+202508,member,end,4,CHI00509,Clinton St & Washington Blvd,2489,351705,0.71
+202508,member,end,5,CHI00525,DuSable Lake Shore Dr & North Blvd,2464,351705,0.7
+202508,member,end,6,CHI01747,Navy Pier,2457,351705,0.7
+202508,member,end,7,CHI00540,Wells St & Elm St,2405,351705,0.68
+202508,member,end,8,CHI00498,Canal St & Madison St,2354,351705,0.67
+202508,member,end,9,CHI01772,State St & Chicago Ave,2343,351705,0.67
+202508,member,end,10,CHI00294,Wells St & Huron St,2321,351705,0.66
+202508,member,end,11,CHI00233,Clinton St & Madison St,2289,351705,0.65
+202508,member,end,12,CHI00474,Clark St & Armitage Ave,2214,351705,0.63
+202508,member,end,13,CHI00420,Theater on the Lake,2185,351705,0.62
+202508,member,end,14,CHI00413,Clark St & Lincoln Ave,2067,351705,0.59
+202508,member,end,15,CHI00353,Wilton Ave & Belmont Ave,1976,351705,0.56
+202508,member,end,16,CHI00430,Broadway & Cornelia Ave,1958,351705,0.56
+202508,member,end,17,CHI01091,Clinton St & Jackson Blvd,1929,351705,0.55
+202508,member,end,18,CHI00252,Michigan Ave & Oak St,1901,351705,0.54
+202508,member,end,19,CHI00367,Orleans St & Merchandise Mart Plaza,1893,351705,0.54
+202508,member,end,20,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1872,351705,0.53
+202508,member,start,1,CHI00299,Kingsbury St & Kinzie St,3622,350592,1.03
+202508,member,start,2,CHI00281,Clark St & Elm St,2910,350592,0.83
+202508,member,start,3,CHI01747,Navy Pier,2718,350592,0.78
+202508,member,start,4,CHI00525,DuSable Lake Shore Dr & North Blvd,2707,350592,0.77
+202508,member,start,5,CHI00509,Clinton St & Washington Blvd,2616,350592,0.75
+202508,member,start,6,CHI00396,Wells St & Concord Ln,2538,350592,0.72
+202508,member,start,7,CHI00540,Wells St & Elm St,2442,350592,0.7
+202508,member,start,8,CHI00294,Wells St & Huron St,2378,350592,0.68
+202508,member,start,9,CHI00498,Canal St & Madison St,2338,350592,0.67
+202508,member,start,10,CHI00420,Theater on the Lake,2323,350592,0.66
+202508,member,start,11,CHI00233,Clinton St & Madison St,2270,350592,0.65
+202508,member,start,12,CHI01772,State St & Chicago Ave,2261,350592,0.64
+202508,member,start,13,CHI00474,Clark St & Armitage Ave,2142,350592,0.61
+202508,member,start,14,CHI00413,Clark St & Lincoln Ave,2082,350592,0.59
+202508,member,start,15,CHI00252,Michigan Ave & Oak St,1997,350592,0.57
+202508,member,start,16,CHI00353,Wilton Ave & Belmont Ave,1954,350592,0.56
+202508,member,start,17,CHI01091,Clinton St & Jackson Blvd,1945,350592,0.55
+202508,member,start,18,CHI00517,Desplaines St & Kinzie St,1888,350592,0.54
+202508,member,start,19,CHI00430,Broadway & Cornelia Ave,1878,350592,0.54
+202508,member,start,20,CHI00306,Dearborn Pkwy & Delaware Pl,1856,350592,0.53
+202509,casual,end,1,CHI01747,Navy Pier,7434,199018,3.74
+202509,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,3757,199018,1.89
+202509,casual,end,3,CHI00252,Michigan Ave & Oak St,2873,199018,1.44
+202509,casual,end,4,CHI00525,DuSable Lake Shore Dr & North Blvd,2707,199018,1.36
+202509,casual,end,5,CHI01742,Millennium Park,2547,199018,1.28
+202509,casual,end,6,CHI00420,Theater on the Lake,2179,199018,1.09
+202509,casual,end,7,CHI00533,Shedd Aquarium,1811,199018,0.91
+202509,casual,end,8,CHI00531,Dusable Harbor,1526,199018,0.77
+202509,casual,end,9,CHI01163,Michigan Ave & 8th St,1395,199018,0.7
+202509,casual,end,10,CHI00413,Clark St & Lincoln Ave,1263,199018,0.63
+202509,casual,end,11,CHI00427,Montrose Harbor,1234,199018,0.62
+202509,casual,end,12,CHI00396,Wells St & Concord Ln,1219,199018,0.61
+202509,casual,end,13,CHI00313,Wabash Ave & Grand Ave,1154,199018,0.58
+202509,casual,end,14,CHI00360,Adler Planetarium,1141,199018,0.57
+202509,casual,end,15,CHI01677,Michigan Ave & Washington St,1121,199018,0.56
+202509,casual,end,16,CHI01749,Field Museum,1094,199018,0.55
+202509,casual,end,17,CHI00553,Michigan Ave & Lake St,1087,199018,0.55
+202509,casual,end,18,CHI00474,Clark St & Armitage Ave,1082,199018,0.54
+202509,casual,end,19,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1052,199018,0.53
+202509,casual,end,20,CHI00299,Kingsbury St & Kinzie St,1028,199018,0.52
+202509,casual,start,1,CHI01747,Navy Pier,7346,206985,3.55
+202509,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,4118,206985,1.99
+202509,casual,start,3,CHI00252,Michigan Ave & Oak St,2799,206985,1.35
+202509,casual,start,4,CHI01742,Millennium Park,2508,206985,1.21
+202509,casual,start,5,CHI00525,DuSable Lake Shore Dr & North Blvd,2477,206985,1.2
+202509,casual,start,6,CHI00533,Shedd Aquarium,2019,206985,0.98
+202509,casual,start,7,CHI00420,Theater on the Lake,2014,206985,0.97
+202509,casual,start,8,CHI00531,Dusable Harbor,1890,206985,0.91
+202509,casual,start,9,CHI01163,Michigan Ave & 8th St,1610,206985,0.78
+202509,casual,start,10,CHI01749,Field Museum,1535,206985,0.74
+202509,casual,start,11,CHI00360,Adler Planetarium,1377,206985,0.67
+202509,casual,start,12,CHI00396,Wells St & Concord Ln,1240,206985,0.6
+202509,casual,start,13,CHI00427,Montrose Harbor,1234,206985,0.6
+202509,casual,start,14,CHI00413,Clark St & Lincoln Ave,1228,206985,0.59
+202509,casual,start,15,CHI00279,New St & Illinois St,1169,206985,0.56
+202509,casual,start,16,CHI00474,Clark St & Armitage Ave,1150,206985,0.56
+202509,casual,start,17,CHI00281,Clark St & Elm St,1138,206985,0.55
+202509,casual,start,18,CHI00313,Wabash Ave & Grand Ave,1136,206985,0.55
+202509,casual,start,19,CHI00450,Indiana Ave & Roosevelt Rd,1098,206985,0.53
+202509,casual,start,20,CHI01677,Michigan Ave & Washington St,1097,206985,0.53
+202509,member,end,1,CHI00299,Kingsbury St & Kinzie St,3547,351258,1.01
+202509,member,end,2,CHI00509,Clinton St & Washington Blvd,2840,351258,0.81
+202509,member,end,3,CHI00233,Clinton St & Madison St,2644,351258,0.75
+202509,member,end,4,CHI00498,Canal St & Madison St,2540,351258,0.72
+202509,member,end,5,CHI00281,Clark St & Elm St,2522,351258,0.72
+202509,member,end,6,CHI01772,State St & Chicago Ave,2403,351258,0.68
+202509,member,end,7,CHI00396,Wells St & Concord Ln,2366,351258,0.67
+202509,member,end,8,CHI00449,Franklin St & Monroe St,2333,351258,0.66
+202509,member,end,9,CHI00540,Wells St & Elm St,2302,351258,0.66
+202509,member,end,10,CHI00294,Wells St & Huron St,2207,351258,0.63
+202509,member,end,11,CHI01091,Clinton St & Jackson Blvd,2117,351258,0.6
+202509,member,end,12,CHI00367,Orleans St & Merchandise Mart Plaza,2012,351258,0.57
+202509,member,end,13,CHI00525,DuSable Lake Shore Dr & North Blvd,1991,351258,0.57
+202509,member,end,14,CHI01747,Navy Pier,1946,351258,0.55
+202509,member,end,15,CHI00430,Broadway & Cornelia Ave,1936,351258,0.55
+202509,member,end,16,CHI00474,Clark St & Armitage Ave,1923,351258,0.55
+202509,member,end,17,CHI01743,Canal St & Adams St,1919,351258,0.55
+202509,member,end,18,CHI00253,Daley Center Plaza,1902,351258,0.54
+202509,member,end,19,CHI00306,Dearborn Pkwy & Delaware Pl,1860,351258,0.53
+202509,member,end,20,CHI02028,Kingsbury St & Erie St,1857,351258,0.53
+202509,member,start,1,CHI00299,Kingsbury St & Kinzie St,3564,351513,1.01
+202509,member,start,2,CHI00509,Clinton St & Washington Blvd,3019,351513,0.86
+202509,member,start,3,CHI00233,Clinton St & Madison St,2691,351513,0.77
+202509,member,start,4,CHI00498,Canal St & Madison St,2623,351513,0.75
+202509,member,start,5,CHI00281,Clark St & Elm St,2450,351513,0.7
+202509,member,start,6,CHI00396,Wells St & Concord Ln,2353,351513,0.67
+202509,member,start,7,CHI00294,Wells St & Huron St,2335,351513,0.66
+202509,member,start,8,CHI01772,State St & Chicago Ave,2311,351513,0.66
+202509,member,start,9,CHI00540,Wells St & Elm St,2274,351513,0.65
+202509,member,start,10,CHI01091,Clinton St & Jackson Blvd,2221,351513,0.63
+202509,member,start,11,CHI00525,DuSable Lake Shore Dr & North Blvd,2168,351513,0.62
+202509,member,start,12,CHI01747,Navy Pier,2146,351513,0.61
+202509,member,start,13,CHI01743,Canal St & Adams St,1950,351513,0.55
+202509,member,start,14,CHI00367,Orleans St & Merchandise Mart Plaza,1948,351513,0.55
+202509,member,start,15,CHI00430,Broadway & Cornelia Ave,1926,351513,0.55
+202509,member,start,16,CHI00474,Clark St & Armitage Ave,1917,351513,0.55
+202509,member,start,17,CHI00345,Columbus Dr & Randolph St,1906,351513,0.54
+202509,member,start,18,CHI00517,Desplaines St & Kinzie St,1905,351513,0.54
+202509,member,start,19,CHI02028,Kingsbury St & Erie St,1860,351513,0.53
+202509,member,start,20,CHI00306,Dearborn Pkwy & Delaware Pl,1832,351513,0.52
+202510,casual,end,1,CHI01747,Navy Pier,5132,165750,3.1
+202510,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,2847,165750,1.72
+202510,casual,end,3,CHI01742,Millennium Park,1940,165750,1.17
+202510,casual,end,4,CHI00252,Michigan Ave & Oak St,1939,165750,1.17
+202510,casual,end,5,CHI00525,DuSable Lake Shore Dr & North Blvd,1411,165750,0.85
+202510,casual,end,6,CHI00533,Shedd Aquarium,1253,165750,0.76
+202510,casual,end,7,CHI00531,Dusable Harbor,1202,165750,0.73
+202510,casual,end,8,CHI00420,Theater on the Lake,1167,165750,0.7
+202510,casual,end,9,CHI01163,Michigan Ave & 8th St,1038,165750,0.63
+202510,casual,end,10,CHI00396,Wells St & Concord Ln,1024,165750,0.62
+202510,casual,end,11,CHI00413,Clark St & Lincoln Ave,993,165750,0.6
+202510,casual,end,12,CHI01677,Michigan Ave & Washington St,975,165750,0.59
+202510,casual,end,13,CHI00474,Clark St & Armitage Ave,947,165750,0.57
+202510,casual,end,14,CHI00299,Kingsbury St & Kinzie St,902,165750,0.54
+202510,casual,end,15,CHI00553,Michigan Ave & Lake St,886,165750,0.53
+202510,casual,end,16,CHI00295,Dearborn St & Erie St,885,165750,0.53
+202510,casual,end,17,CHI00313,Wabash Ave & Grand Ave,885,165750,0.53
+202510,casual,end,18,CHI00330,McClurg Ct & Ohio St,852,165750,0.51
+202510,casual,end,19,CHI00540,Wells St & Elm St,836,165750,0.5
+202510,casual,end,20,CHI00358,LaSalle St & Illinois St,835,165750,0.5
+202510,casual,start,1,CHI01747,Navy Pier,4841,172641,2.8
+202510,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,3175,172641,1.84
+202510,casual,start,3,CHI00252,Michigan Ave & Oak St,1948,172641,1.13
+202510,casual,start,4,CHI01742,Millennium Park,1758,172641,1.02
+202510,casual,start,5,CHI00531,Dusable Harbor,1514,172641,0.88
+202510,casual,start,6,CHI00533,Shedd Aquarium,1503,172641,0.87
+202510,casual,start,7,CHI00525,DuSable Lake Shore Dr & North Blvd,1366,172641,0.79
+202510,casual,start,8,CHI01163,Michigan Ave & 8th St,1162,172641,0.67
+202510,casual,start,9,CHI00420,Theater on the Lake,1103,172641,0.64
+202510,casual,start,10,CHI00396,Wells St & Concord Ln,1068,172641,0.62
+202510,casual,start,11,CHI00413,Clark St & Lincoln Ave,987,172641,0.57
+202510,casual,start,12,CHI00299,Kingsbury St & Kinzie St,984,172641,0.57
+202510,casual,start,13,CHI00474,Clark St & Armitage Ave,967,172641,0.56
+202510,casual,start,14,CHI01749,Field Museum,948,172641,0.55
+202510,casual,start,15,CHI00294,Wells St & Huron St,900,172641,0.52
+202510,casual,start,16,CHI00279,New St & Illinois St,892,172641,0.52
+202510,casual,start,17,CHI00358,LaSalle St & Illinois St,888,172641,0.51
+202510,casual,start,18,CHI00345,Columbus Dr & Randolph St,884,172641,0.51
+202510,casual,start,19,CHI00360,Adler Planetarium,881,172641,0.51
+202510,casual,start,20,CHI00332,Wells St & Hubbard St,877,172641,0.51
+202510,member,end,1,CHI00299,Kingsbury St & Kinzie St,3335,326823,1.02
+202510,member,end,2,CHI00509,Clinton St & Washington Blvd,2685,326823,0.82
+202510,member,end,3,CHI00551,University Ave & 57th St,2631,326823,0.81
+202510,member,end,4,CHI00765,Ellis Ave & 60th St,2604,326823,0.8
+202510,member,end,5,CHI00233,Clinton St & Madison St,2530,326823,0.77
+202510,member,end,6,CHI00498,Canal St & Madison St,2317,326823,0.71
+202510,member,end,7,CHI01772,State St & Chicago Ave,2268,326823,0.69
+202510,member,end,8,CHI00583,Ellis Ave & 55th St,2183,326823,0.67
+202510,member,end,9,CHI00396,Wells St & Concord Ln,2157,326823,0.66
+202510,member,end,10,CHI00294,Wells St & Huron St,2100,326823,0.64
+202510,member,end,11,CHI00540,Wells St & Elm St,2098,326823,0.64
+202510,member,end,12,CHI00281,Clark St & Elm St,1987,326823,0.61
+202510,member,end,13,CHI02028,Kingsbury St & Erie St,1932,326823,0.59
+202510,member,end,14,CHI01091,Clinton St & Jackson Blvd,1895,326823,0.58
+202510,member,end,15,CHI00449,Franklin St & Monroe St,1846,326823,0.56
+202510,member,end,16,CHI00245,Larrabee St & Kingsbury St,1834,326823,0.56
+202510,member,end,17,CHI00253,Daley Center Plaza,1829,326823,0.56
+202510,member,end,18,CHI00332,Wells St & Hubbard St,1796,326823,0.55
+202510,member,end,19,CHI01743,Canal St & Adams St,1785,326823,0.55
+202510,member,end,20,CHI00306,Dearborn Pkwy & Delaware Pl,1701,326823,0.52
+202510,member,start,1,CHI00299,Kingsbury St & Kinzie St,3342,328419,1.02
+202510,member,start,2,CHI00509,Clinton St & Washington Blvd,2802,328419,0.85
+202510,member,start,3,CHI00551,University Ave & 57th St,2648,328419,0.81
+202510,member,start,4,CHI00765,Ellis Ave & 60th St,2560,328419,0.78
+202510,member,start,5,CHI00233,Clinton St & Madison St,2492,328419,0.76
+202510,member,start,6,CHI00498,Canal St & Madison St,2395,328419,0.73
+202510,member,start,7,CHI01772,State St & Chicago Ave,2238,328419,0.68
+202510,member,start,8,CHI00294,Wells St & Huron St,2182,328419,0.66
+202510,member,start,9,CHI00583,Ellis Ave & 55th St,2164,328419,0.66
+202510,member,start,10,CHI00396,Wells St & Concord Ln,2117,328419,0.64
+202510,member,start,11,CHI00540,Wells St & Elm St,2112,328419,0.64
+202510,member,start,12,CHI01091,Clinton St & Jackson Blvd,2020,328419,0.62
+202510,member,start,13,CHI00281,Clark St & Elm St,1952,328419,0.59
+202510,member,start,14,CHI02028,Kingsbury St & Erie St,1906,328419,0.58
+202510,member,start,15,CHI00245,Larrabee St & Kingsbury St,1810,328419,0.55
+202510,member,start,16,CHI01743,Canal St & Adams St,1788,328419,0.54
+202510,member,start,17,CHI00332,Wells St & Hubbard St,1781,328419,0.54
+202510,member,start,18,CHI00517,Desplaines St & Kinzie St,1776,328419,0.54
+202510,member,start,19,CHI00295,Dearborn St & Erie St,1772,328419,0.54
+202510,member,start,20,CHI00306,Dearborn Pkwy & Delaware Pl,1736,328419,0.53
+202511,casual,end,1,CHI01747,Navy Pier,1769,73734,2.4
+202511,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,1184,73734,1.61
+202511,casual,end,3,CHI01742,Millennium Park,804,73734,1.09
+202511,casual,end,4,CHI00533,Shedd Aquarium,629,73734,0.85
+202511,casual,end,5,CHI00252,Michigan Ave & Oak St,623,73734,0.84
+202511,casual,end,6,CHI00299,Kingsbury St & Kinzie St,567,73734,0.77
+202511,casual,end,7,CHI00396,Wells St & Concord Ln,533,73734,0.72
+202511,casual,end,8,CHI00525,DuSable Lake Shore Dr & North Blvd,514,73734,0.7
+202511,casual,end,9,CHI00498,Canal St & Madison St,486,73734,0.66
+202511,casual,end,10,CHI01163,Michigan Ave & 8th St,446,73734,0.6
+202511,casual,end,11,CHI00295,Dearborn St & Erie St,439,73734,0.6
+202511,casual,end,12,CHI00358,LaSalle St & Illinois St,433,73734,0.59
+202511,casual,end,13,CHI01677,Michigan Ave & Washington St,416,73734,0.56
+202511,casual,end,14,CHI00540,Wells St & Elm St,388,73734,0.53
+202511,casual,end,15,CHI00553,Michigan Ave & Lake St,376,73734,0.51
+202511,casual,end,16,CHI01749,Field Museum,376,73734,0.51
+202511,casual,end,17,CHI00531,Dusable Harbor,375,73734,0.51
+202511,casual,end,18,CHI00306,Dearborn Pkwy & Delaware Pl,370,73734,0.5
+202511,casual,end,19,CHI00313,Wabash Ave & Grand Ave,368,73734,0.5
+202511,casual,end,20,CHI00233,Clinton St & Madison St,367,73734,0.5
+202511,casual,start,1,CHI01747,Navy Pier,1719,77378,2.22
+202511,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,1405,77378,1.82
+202511,casual,start,3,CHI00533,Shedd Aquarium,761,77378,0.98
+202511,casual,start,4,CHI01742,Millennium Park,751,77378,0.97
+202511,casual,start,5,CHI00299,Kingsbury St & Kinzie St,604,77378,0.78
+202511,casual,start,6,CHI00252,Michigan Ave & Oak St,602,77378,0.78
+202511,casual,start,7,CHI01749,Field Museum,513,77378,0.66
+202511,casual,start,8,CHI00531,Dusable Harbor,489,77378,0.63
+202511,casual,start,9,CHI01163,Michigan Ave & 8th St,484,77378,0.63
+202511,casual,start,10,CHI00396,Wells St & Concord Ln,461,77378,0.6
+202511,casual,start,11,CHI00553,Michigan Ave & Lake St,452,77378,0.58
+202511,casual,start,12,CHI00332,Wells St & Hubbard St,428,77378,0.55
+202511,casual,start,13,CHI00498,Canal St & Madison St,422,77378,0.55
+202511,casual,start,14,CHI00525,DuSable Lake Shore Dr & North Blvd,420,77378,0.54
+202511,casual,start,15,CHI00295,Dearborn St & Erie St,418,77378,0.54
+202511,casual,start,16,CHI00281,Clark St & Elm St,417,77378,0.54
+202511,casual,start,17,CHI00358,LaSalle St & Illinois St,410,77378,0.53
+202511,casual,start,18,CHI00233,Clinton St & Madison St,407,77378,0.53
+202511,casual,start,19,CHI00294,Wells St & Huron St,407,77378,0.53
+202511,casual,start,20,CHI00540,Wells St & Elm St,400,77378,0.52
+202511,member,end,1,CHI00299,Kingsbury St & Kinzie St,2389,200998,1.19
+202511,member,end,2,CHI00509,Clinton St & Washington Blvd,1852,200998,0.92
+202511,member,end,3,CHI00498,Canal St & Madison St,1653,200998,0.82
+202511,member,end,4,CHI00233,Clinton St & Madison St,1606,200998,0.8
+202511,member,end,5,CHI00551,University Ave & 57th St,1549,200998,0.77
+202511,member,end,6,CHI01772,State St & Chicago Ave,1452,200998,0.72
+202511,member,end,7,CHI00396,Wells St & Concord Ln,1304,200998,0.65
+202511,member,end,8,CHI00765,Ellis Ave & 60th St,1290,200998,0.64
+202511,member,end,9,CHI00540,Wells St & Elm St,1275,200998,0.63
+202511,member,end,10,CHI00583,Ellis Ave & 55th St,1261,200998,0.63
+202511,member,end,11,CHI00294,Wells St & Huron St,1260,200998,0.63
+202511,member,end,12,CHI01743,Canal St & Adams St,1222,200998,0.61
+202511,member,end,13,CHI02028,Kingsbury St & Erie St,1163,200998,0.58
+202511,member,end,14,CHI00281,Clark St & Elm St,1153,200998,0.57
+202511,member,end,15,CHI01091,Clinton St & Jackson Blvd,1152,200998,0.57
+202511,member,end,16,CHI00253,Daley Center Plaza,1145,200998,0.57
+202511,member,end,17,CHI00517,Desplaines St & Kinzie St,1113,200998,0.55
+202511,member,end,18,CHI00332,Wells St & Hubbard St,1096,200998,0.55
+202511,member,end,19,CHI00295,Dearborn St & Erie St,1078,200998,0.54
+202511,member,end,20,CHI01746,Clinton St & Lake St,1069,200998,0.53
+202511,member,start,1,CHI00299,Kingsbury St & Kinzie St,2386,202970,1.18
+202511,member,start,2,CHI00509,Clinton St & Washington Blvd,1915,202970,0.94
+202511,member,start,3,CHI00498,Canal St & Madison St,1681,202970,0.83
+202511,member,start,4,CHI00233,Clinton St & Madison St,1592,202970,0.78
+202511,member,start,5,CHI00551,University Ave & 57th St,1524,202970,0.75
+202511,member,start,6,CHI01772,State St & Chicago Ave,1438,202970,0.71
+202511,member,start,7,CHI00396,Wells St & Concord Ln,1374,202970,0.68
+202511,member,start,8,CHI00294,Wells St & Huron St,1330,202970,0.66
+202511,member,start,9,CHI00540,Wells St & Elm St,1317,202970,0.65
+202511,member,start,10,CHI00765,Ellis Ave & 60th St,1295,202970,0.64
+202511,member,start,11,CHI01743,Canal St & Adams St,1262,202970,0.62
+202511,member,start,12,CHI00583,Ellis Ave & 55th St,1238,202970,0.61
+202511,member,start,13,CHI01091,Clinton St & Jackson Blvd,1234,202970,0.61
+202511,member,start,14,CHI02028,Kingsbury St & Erie St,1208,202970,0.6
+202511,member,start,15,CHI00517,Desplaines St & Kinzie St,1194,202970,0.59
+202511,member,start,16,CHI00281,Clark St & Elm St,1103,202970,0.54
+202511,member,start,17,CHI00295,Dearborn St & Erie St,1100,202970,0.54
+202511,member,start,18,CHI00253,Daley Center Plaza,1087,202970,0.54
+202511,member,start,19,CHI01746,Clinton St & Lake St,1086,202970,0.54
+202511,member,start,20,CHI00332,Wells St & Hubbard St,1076,202970,0.53
+202512,casual,end,1,CHI01747,Navy Pier,348,21327,1.63
+202512,casual,end,2,CHI01742,Millennium Park,241,21327,1.13
+202512,casual,end,3,CHI00374,DuSable Lake Shore Dr & Monroe St,208,21327,0.98
+202512,casual,end,4,CHI00498,Canal St & Madison St,204,21327,0.96
+202512,casual,end,5,CHI00533,Shedd Aquarium,146,21327,0.68
+202512,casual,end,6,CHI01677,Michigan Ave & Washington St,143,21327,0.67
+202512,casual,end,7,CHI00233,Clinton St & Madison St,139,21327,0.65
+202512,casual,end,8,CHI01772,State St & Chicago Ave,133,21327,0.62
+202512,casual,end,9,CHI00509,Clinton St & Washington Blvd,131,21327,0.61
+202512,casual,end,10,CHI00508,Ravenswood Ave & Lawrence Ave,125,21327,0.59
+202512,casual,end,11,CHI00306,Dearborn Pkwy & Delaware Pl,120,21327,0.56
+202512,casual,end,12,CHI00396,Wells St & Concord Ln,118,21327,0.55
+202512,casual,end,13,CHI01163,Michigan Ave & 8th St,117,21327,0.55
+202512,casual,end,14,CHI00313,Wabash Ave & Grand Ave,117,21327,0.55
+202512,casual,end,15,CHI00252,Michigan Ave & Oak St,116,21327,0.54
+202512,casual,end,16,CHI02057,Damen Ave & Pierce Ave,114,21327,0.53
+202512,casual,end,17,CHI00345,Columbus Dr & Randolph St,114,21327,0.53
+202512,casual,end,18,CHI01743,Canal St & Adams St,112,21327,0.53
+202512,casual,end,19,CHI00332,Wells St & Hubbard St,111,21327,0.52
+202512,casual,end,20,CHI00358,LaSalle St & Illinois St,108,21327,0.51
+202512,casual,start,1,CHI01747,Navy Pier,303,22711,1.33
+202512,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,252,22711,1.11
+202512,casual,start,3,CHI01742,Millennium Park,213,22711,0.94
+202512,casual,start,4,CHI00533,Shedd Aquarium,189,22711,0.83
+202512,casual,start,5,CHI00498,Canal St & Madison St,160,22711,0.7
+202512,casual,start,6,CHI01772,State St & Chicago Ave,148,22711,0.65
+202512,casual,start,7,CHI00233,Clinton St & Madison St,147,22711,0.65
+202512,casual,start,8,CHI00332,Wells St & Hubbard St,143,22711,0.63
+202512,casual,start,9,CHI01163,Michigan Ave & 8th St,136,22711,0.6
+202512,casual,start,10,CHI00279,New St & Illinois St,133,22711,0.59
+202512,casual,start,11,CHI00509,Clinton St & Washington Blvd,126,22711,0.55
+202512,casual,start,12,CHI00447,LaSalle St & Jackson Blvd,125,22711,0.55
+202512,casual,start,13,CHI00253,Daley Center Plaza,123,22711,0.54
+202512,casual,start,14,CHI00553,Michigan Ave & Lake St,123,22711,0.54
+202512,casual,start,15,CHI01749,Field Museum,123,22711,0.54
+202512,casual,start,16,CHI01677,Michigan Ave & Washington St,119,22711,0.52
+202512,casual,start,17,CHI02050,Franklin St & Jackson Blvd,116,22711,0.51
+202512,casual,start,18,CHI00540,Wells St & Elm St,115,22711,0.51
+202512,casual,start,19,CHI00358,LaSalle St & Illinois St,114,22711,0.5
+202512,casual,start,20,CHI00396,Wells St & Concord Ln,110,22711,0.48
+202512,member,end,1,CHI00509,Clinton St & Washington Blvd,1113,89162,1.25
+202512,member,end,2,CHI00498,Canal St & Madison St,907,89162,1.02
+202512,member,end,3,CHI00233,Clinton St & Madison St,830,89162,0.93
+202512,member,end,4,CHI01772,State St & Chicago Ave,803,89162,0.9
+202512,member,end,5,CHI01091,Clinton St & Jackson Blvd,701,89162,0.79
+202512,member,end,6,CHI00245,Larrabee St & Kingsbury St 1,699,89162,0.78
+202512,member,end,7,CHI01746,Clinton St & Lake St,611,89162,0.69
+202512,member,end,8,CHI01743,Canal St & Adams St,600,89162,0.67
+202512,member,end,9,CHI00253,Daley Center Plaza,595,89162,0.67
+202512,member,end,10,CHI00447,LaSalle St & Jackson Blvd,590,89162,0.66
+202512,member,end,11,CHI02028,Kingsbury St & Erie St,573,89162,0.64
+202512,member,end,12,CHI00294,Wells St & Huron St,568,89162,0.64
+202512,member,end,13,CHI00332,Wells St & Hubbard St,561,89162,0.63
+202512,member,end,14,CHI00396,Wells St & Concord Ln,542,89162,0.61
+202512,member,end,15,CHI00540,Wells St & Elm St,538,89162,0.6
+202512,member,end,16,CHI00299,Kingsbury St & Kinzie St 1,522,89162,0.59
+202512,member,end,17,CHI00449,Franklin St & Monroe St,514,89162,0.58
+202512,member,end,18,CHI00295,Dearborn St & Erie St,505,89162,0.57
+202512,member,end,19,CHI00551,University Ave & 57th St,493,89162,0.55
+202512,member,end,20,CHI00517,Desplaines St & Kinzie St,478,89162,0.54
+202512,member,start,1,CHI00509,Clinton St & Washington Blvd,1097,90897,1.21
+202512,member,start,2,CHI00498,Canal St & Madison St,960,90897,1.06
+202512,member,start,3,CHI00233,Clinton St & Madison St,796,90897,0.88
+202512,member,start,4,CHI01772,State St & Chicago Ave,794,90897,0.87
+202512,member,start,5,CHI01091,Clinton St & Jackson Blvd,729,90897,0.8
+202512,member,start,6,CHI00245,Larrabee St & Kingsbury St 1,724,90897,0.8
+202512,member,start,7,CHI01746,Clinton St & Lake St,647,90897,0.71
+202512,member,start,8,CHI01743,Canal St & Adams St,629,90897,0.69
+202512,member,start,9,CHI02028,Kingsbury St & Erie St,590,90897,0.65
+202512,member,start,10,CHI00294,Wells St & Huron St,589,90897,0.65
+202512,member,start,11,CHI00253,Daley Center Plaza,561,90897,0.62
+202512,member,start,12,CHI00396,Wells St & Concord Ln,558,90897,0.61
+202512,member,start,13,CHI00332,Wells St & Hubbard St,557,90897,0.61
+202512,member,start,14,CHI00295,Dearborn St & Erie St,554,90897,0.61
+202512,member,start,15,CHI00447,LaSalle St & Jackson Blvd,548,90897,0.6
+202512,member,start,16,CHI00299,Kingsbury St & Kinzie St 1,544,90897,0.6
+202512,member,start,17,CHI00540,Wells St & Elm St,539,90897,0.59
+202512,member,start,18,CHI00517,Desplaines St & Kinzie St,514,90897,0.57
+202512,member,start,19,CHI00551,University Ave & 57th St,509,90897,0.56
+202512,member,start,20,CHI00449,Franklin St & Monroe St,493,90897,0.54
+202601,casual,end,1,CHI00498,Canal St & Madison St,183,18656,0.98
+202601,casual,end,2,CHI00533,Shedd Aquarium,170,18656,0.91
+202601,casual,end,3,CHI01747,Navy Pier,160,18656,0.86
+202601,casual,end,4,CHI00551,University Ave & 57th St,152,18656,0.81
+202601,casual,end,5,CHI00765,Ellis Ave & 60th St,136,18656,0.73
+202601,casual,end,6,CHI00509,Clinton St & Washington Blvd,134,18656,0.72
+202601,casual,end,7,CHI00583,Ellis Ave & 55th St,132,18656,0.71
+202601,casual,end,8,CHI02181,Kingsbury St & Kinzie St 2,126,18656,0.68
+202601,casual,end,9,CHI01091,Clinton St & Jackson Blvd,121,18656,0.65
+202601,casual,end,10,CHI00508,Ravenswood Ave & Lawrence Ave,115,18656,0.62
+202601,casual,end,11,CHI01743,Canal St & Adams St,110,18656,0.59
+202601,casual,end,12,CHI01114,Sheridan Rd & Noyes St (NU),109,18656,0.58
+202601,casual,end,13,CHI02057,Damen Ave & Pierce Ave,108,18656,0.58
+202601,casual,end,14,CHI00374,DuSable Lake Shore Dr & Monroe St,107,18656,0.57
+202601,casual,end,15,CHI00313,Wabash Ave & Grand Ave,106,18656,0.57
+202601,casual,end,16,CHI00396,Wells St & Concord Ln,103,18656,0.55
+202601,casual,end,17,CHI01749,Field Museum,103,18656,0.55
+202601,casual,end,18,CHI00353,Wilton Ave & Belmont Ave,102,18656,0.55
+202601,casual,end,19,CHI00540,Wells St & Elm St,100,18656,0.54
+202601,casual,end,20,CHI01742,Millennium Park,97,18656,0.52
+202601,casual,start,1,CHI00533,Shedd Aquarium,198,19935,0.99
+202601,casual,start,2,CHI01747,Navy Pier,176,19935,0.88
+202601,casual,start,3,CHI00551,University Ave & 57th St,161,19935,0.81
+202601,casual,start,4,CHI00583,Ellis Ave & 55th St,153,19935,0.77
+202601,casual,start,5,CHI00498,Canal St & Madison St,152,19935,0.76
+202601,casual,start,6,CHI02181,Kingsbury St & Kinzie St 2,147,19935,0.74
+202601,casual,start,7,CHI00374,DuSable Lake Shore Dr & Monroe St,141,19935,0.71
+202601,casual,start,8,CHI00765,Ellis Ave & 60th St,139,19935,0.7
+202601,casual,start,9,CHI01114,Sheridan Rd & Noyes St (NU),127,19935,0.64
+202601,casual,start,10,CHI00233,Clinton St & Madison St,119,19935,0.6
+202601,casual,start,11,CHI00517,Desplaines St & Kinzie St,117,19935,0.59
+202601,casual,start,12,CHI01749,Field Museum,110,19935,0.55
+202601,casual,start,13,CHI00299,Kingsbury St & Kinzie St 1,110,19935,0.55
+202601,casual,start,14,CHI00509,Clinton St & Washington Blvd,105,19935,0.53
+202601,casual,start,15,CHI00245,Larrabee St & Kingsbury St 1,103,19935,0.52
+202601,casual,start,16,CHI01091,Clinton St & Jackson Blvd,102,19935,0.51
+202601,casual,start,17,CHI00279,New St & Illinois St,102,19935,0.51
+202601,casual,start,18,CHI00540,Wells St & Elm St,101,19935,0.51
+202601,casual,start,19,CHI00367,Orleans St & Merchandise Mart Plaza,101,19935,0.51
+202601,casual,start,20,CHI02043,Chicago Ave & Sheridan Rd,100,19935,0.5
+202601,member,end,1,CHI00498,Canal St & Madison St,1170,91536,1.28
+202601,member,end,2,CHI00509,Clinton St & Washington Blvd,970,91536,1.06
+202601,member,end,3,CHI02181,Kingsbury St & Kinzie St 2,885,91536,0.97
+202601,member,end,4,CHI01091,Clinton St & Jackson Blvd,849,91536,0.93
+202601,member,end,5,CHI00551,University Ave & 57th St,780,91536,0.85
+202601,member,end,6,CHI01743,Canal St & Adams St,719,91536,0.79
+202601,member,end,7,CHI00233,Clinton St & Madison St,718,91536,0.78
+202601,member,end,8,CHI01772,State St & Chicago Ave,702,91536,0.77
+202601,member,end,9,CHI00583,Ellis Ave & 55th St,668,91536,0.73
+202601,member,end,10,CHI00299,Kingsbury St & Kinzie St 1,663,91536,0.72
+202601,member,end,11,CHI01746,Clinton St & Lake St,642,91536,0.7
+202601,member,end,12,CHI00765,Ellis Ave & 60th St,640,91536,0.7
+202601,member,end,13,CHI00245,Larrabee St & Kingsbury St 1,620,91536,0.68
+202601,member,end,14,CHI00447,LaSalle St & Jackson Blvd,610,91536,0.67
+202601,member,end,15,CHI00367,Orleans St & Merchandise Mart Plaza,564,91536,0.62
+202601,member,end,16,CHI00540,Wells St & Elm St,558,91536,0.61
+202601,member,end,17,CHI00396,Wells St & Concord Ln,556,91536,0.61
+202601,member,end,18,CHI02028,Kingsbury St & Erie St,556,91536,0.61
+202601,member,end,19,CHI00253,Daley Center Plaza,550,91536,0.6
+202601,member,end,20,CHI00332,Wells St & Hubbard St,547,91536,0.6
+202601,member,start,1,CHI00498,Canal St & Madison St,1205,93299,1.29
+202601,member,start,2,CHI00509,Clinton St & Washington Blvd,954,93299,1.02
+202601,member,start,3,CHI02181,Kingsbury St & Kinzie St 2,870,93299,0.93
+202601,member,start,4,CHI01091,Clinton St & Jackson Blvd,859,93299,0.92
+202601,member,start,5,CHI00551,University Ave & 57th St,792,93299,0.85
+202601,member,start,6,CHI01743,Canal St & Adams St,780,93299,0.84
+202601,member,start,7,CHI00233,Clinton St & Madison St,708,93299,0.76
+202601,member,start,8,CHI01746,Clinton St & Lake St,669,93299,0.72
+202601,member,start,9,CHI00299,Kingsbury St & Kinzie St 1,666,93299,0.71
+202601,member,start,10,CHI01772,State St & Chicago Ave,653,93299,0.7
+202601,member,start,11,CHI00583,Ellis Ave & 55th St,651,93299,0.7
+202601,member,start,12,CHI00765,Ellis Ave & 60th St,638,93299,0.68
+202601,member,start,13,CHI00245,Larrabee St & Kingsbury St 1,623,93299,0.67
+202601,member,start,14,CHI00447,LaSalle St & Jackson Blvd,601,93299,0.64
+202601,member,start,15,CHI00367,Orleans St & Merchandise Mart Plaza,585,93299,0.63
+202601,member,start,16,CHI00396,Wells St & Concord Ln,576,93299,0.62
+202601,member,start,17,CHI00540,Wells St & Elm St,575,93299,0.62
+202601,member,start,18,CHI02028,Kingsbury St & Erie St,566,93299,0.61
+202601,member,start,19,CHI00253,Daley Center Plaza,553,93299,0.59
+202601,member,start,20,CHI00295,Dearborn St & Erie St,550,93299,0.59
+202602,casual,end,1,CHI01747,Navy Pier,476,32918,1.45
+202602,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,378,32918,1.15
+202602,casual,end,3,CHI01742,Millennium Park,264,32918,0.8
+202602,casual,end,4,CHI00498,Canal St & Madison St,258,32918,0.78
+202602,casual,end,5,CHI00252,Michigan Ave & Oak St,252,32918,0.77
+202602,casual,end,6,CHI00551,University Ave & 57th St,219,32918,0.67
+202602,casual,end,7,CHI00313,Wabash Ave & Grand Ave,206,32918,0.63
+202602,casual,end,8,CHI00420,Theater on the Lake,197,32918,0.6
+202602,casual,end,9,CHI00533,Shedd Aquarium,194,32918,0.59
+202602,casual,end,10,CHI00540,Wells St & Elm St,194,32918,0.59
+202602,casual,end,11,CHI01091,Clinton St & Jackson Blvd,191,32918,0.58
+202602,casual,end,12,CHI00396,Wells St & Concord Ln,183,32918,0.56
+202602,casual,end,13,CHI00299,Kingsbury St & Kinzie St 1,183,32918,0.56
+202602,casual,end,14,CHI01677,Michigan Ave & Washington St,182,32918,0.55
+202602,casual,end,15,CHI01772,State St & Chicago Ave,177,32918,0.54
+202602,casual,end,16,CHI00525,DuSable Lake Shore Dr & North Blvd,174,32918,0.53
+202602,casual,end,17,CHI00553,Michigan Ave & Lake St,172,32918,0.52
+202602,casual,end,18,CHI00358,LaSalle St & Illinois St,169,32918,0.51
+202602,casual,end,19,CHI00233,Clinton St & Madison St,162,32918,0.49
+202602,casual,end,20,CHI00508,Ravenswood Ave & Lawrence Ave,157,32918,0.48
+202602,casual,start,1,CHI01747,Navy Pier,494,34476,1.43
+202602,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,406,34476,1.18
+202602,casual,start,3,CHI01742,Millennium Park,262,34476,0.76
+202602,casual,start,4,CHI00553,Michigan Ave & Lake St,247,34476,0.72
+202602,casual,start,5,CHI00551,University Ave & 57th St,234,34476,0.68
+202602,casual,start,6,CHI00533,Shedd Aquarium,224,34476,0.65
+202602,casual,start,7,CHI00252,Michigan Ave & Oak St,217,34476,0.63
+202602,casual,start,8,CHI01772,State St & Chicago Ave,208,34476,0.6
+202602,casual,start,9,CHI00583,Ellis Ave & 55th St,197,34476,0.57
+202602,casual,start,10,CHI00313,Wabash Ave & Grand Ave,193,34476,0.56
+202602,casual,start,11,CHI00540,Wells St & Elm St,186,34476,0.54
+202602,casual,start,12,CHI00498,Canal St & Madison St,183,34476,0.53
+202602,casual,start,13,CHI00517,Desplaines St & Kinzie St,183,34476,0.53
+202602,casual,start,14,CHI00233,Clinton St & Madison St,181,34476,0.53
+202602,casual,start,15,CHI00367,Orleans St & Merchandise Mart Plaza,179,34476,0.52
+202602,casual,start,16,CHI00420,Theater on the Lake,177,34476,0.51
+202602,casual,start,17,CHI00332,Wells St & Hubbard St,174,34476,0.5
+202602,casual,start,18,CHI00358,LaSalle St & Illinois St,170,34476,0.49
+202602,casual,start,19,CHI00299,Kingsbury St & Kinzie St 1,166,34476,0.48
+202602,casual,start,20,CHI00281,Clark St & Elm St,163,34476,0.47
+202602,member,end,1,CHI00498,Canal St & Madison St,1347,133671,1.01
+202602,member,end,2,CHI02196,Clinton St & Washington Blvd 2,1270,133671,0.95
+202602,member,end,3,CHI01772,State St & Chicago Ave,1144,133671,0.86
+202602,member,end,4,CHI00551,University Ave & 57th St,1142,133671,0.85
+202602,member,end,5,CHI02181,Kingsbury St & Kinzie St 2,1140,133671,0.85
+202602,member,end,6,CHI01091,Clinton St & Jackson Blvd,1090,133671,0.82
+202602,member,end,7,CHI00233,Clinton St & Madison St,975,133671,0.73
+202602,member,end,8,CHI00299,Kingsbury St & Kinzie St 1,914,133671,0.68
+202602,member,end,9,CHI00396,Wells St & Concord Ln,851,133671,0.64
+202602,member,end,10,CHI00540,Wells St & Elm St,829,133671,0.62
+202602,member,end,11,CHI00245,Larrabee St & Kingsbury St 1,815,133671,0.61
+202602,member,end,12,CHI00765,Ellis Ave & 60th St,798,133671,0.6
+202602,member,end,13,CHI00583,Ellis Ave & 55th St,795,133671,0.59
+202602,member,end,14,CHI01746,Clinton St & Lake St,781,133671,0.58
+202602,member,end,15,CHI00447,LaSalle St & Jackson Blvd,781,133671,0.58
+202602,member,end,16,CHI00332,Wells St & Hubbard St,772,133671,0.58
+202602,member,end,17,CHI01743,Canal St & Adams St,757,133671,0.57
+202602,member,end,18,CHI00294,Wells St & Huron St,753,133671,0.56
+202602,member,end,19,CHI00517,Desplaines St & Kinzie St,737,133671,0.55
+202602,member,end,20,CHI02028,Kingsbury St & Erie St,737,133671,0.55
+202602,member,start,1,CHI00498,Canal St & Madison St,1414,134905,1.05
+202602,member,start,2,CHI02196,Clinton St & Washington Blvd 2,1254,134905,0.93
+202602,member,start,3,CHI02181,Kingsbury St & Kinzie St 2,1153,134905,0.85
+202602,member,start,4,CHI00551,University Ave & 57th St,1141,134905,0.85
+202602,member,start,5,CHI01772,State St & Chicago Ave,1118,134905,0.83
+202602,member,start,6,CHI01091,Clinton St & Jackson Blvd,1111,134905,0.82
+202602,member,start,7,CHI00299,Kingsbury St & Kinzie St 1,959,134905,0.71
+202602,member,start,8,CHI00233,Clinton St & Madison St,950,134905,0.7
+202602,member,start,9,CHI00396,Wells St & Concord Ln,864,134905,0.64
+202602,member,start,10,CHI00540,Wells St & Elm St,859,134905,0.64
+202602,member,start,11,CHI00245,Larrabee St & Kingsbury St 1,827,134905,0.61
+202602,member,start,12,CHI01743,Canal St & Adams St,802,134905,0.59
+202602,member,start,13,CHI00765,Ellis Ave & 60th St,796,134905,0.59
+202602,member,start,14,CHI01746,Clinton St & Lake St,782,134905,0.58
+202602,member,start,15,CHI00332,Wells St & Hubbard St,770,134905,0.57
+202602,member,start,16,CHI00294,Wells St & Huron St,766,134905,0.57
+202602,member,start,17,CHI00447,LaSalle St & Jackson Blvd,765,134905,0.57
+202602,member,start,18,CHI00583,Ellis Ave & 55th St,763,134905,0.57
+202602,member,start,19,CHI00517,Desplaines St & Kinzie St,754,134905,0.56
+202602,member,start,20,CHI02028,Kingsbury St & Erie St,747,134905,0.55
+202603,casual,end,1,CHI01747,Navy Pier,1917,68155,2.81
+202603,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,1148,68155,1.68
+202603,casual,end,3,CHI01742,Millennium Park,751,68155,1.1
+202603,casual,end,4,CHI00252,Michigan Ave & Oak St,737,68155,1.08
+202603,casual,end,5,CHI00533,Shedd Aquarium,676,68155,0.99
+202603,casual,end,6,CHI00525,DuSable Lake Shore Dr & North Blvd,560,68155,0.82
+202603,casual,end,7,CHI00420,Theater on the Lake,519,68155,0.76
+202603,casual,end,8,CHI00531,Dusable Harbor,424,68155,0.62
+202603,casual,end,9,CHI00553,Michigan Ave & Lake St,422,68155,0.62
+202603,casual,end,10,CHI00450,Indiana Ave & Roosevelt Rd,385,68155,0.56
+202603,casual,end,11,CHI00313,Wabash Ave & Grand Ave,380,68155,0.56
+202603,casual,end,12,CHI00360,Adler Planetarium,373,68155,0.55
+202603,casual,end,13,CHI01677,Michigan Ave & Washington St,371,68155,0.54
+202603,casual,end,14,CHI00498,Canal St & Madison St,371,68155,0.54
+202603,casual,end,15,CHI00540,Wells St & Elm St,365,68155,0.54
+202603,casual,end,16,CHI00396,Wells St & Concord Ln,360,68155,0.53
+202603,casual,end,17,CHI01772,State St & Chicago Ave,339,68155,0.5
+202603,casual,end,18,CHI00413,Clark St & Lincoln Ave,322,68155,0.47
+202603,casual,end,19,CHI01163,Michigan Ave & 8th St,321,68155,0.47
+202603,casual,end,20,CHI00551,University Ave & 57th St,320,68155,0.47
+202603,casual,start,1,CHI01747,Navy Pier,1923,71324,2.7
+202603,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,1335,71324,1.87
+202603,casual,start,3,CHI00533,Shedd Aquarium,834,71324,1.17
+202603,casual,start,4,CHI00252,Michigan Ave & Oak St,703,71324,0.99
+202603,casual,start,5,CHI01742,Millennium Park,687,71324,0.96
+202603,casual,start,6,CHI00525,DuSable Lake Shore Dr & North Blvd,566,71324,0.79
+202603,casual,start,7,CHI00531,Dusable Harbor,522,71324,0.73
+202603,casual,start,8,CHI00420,Theater on the Lake,505,71324,0.71
+202603,casual,start,9,CHI00360,Adler Planetarium,420,71324,0.59
+202603,casual,start,10,CHI00553,Michigan Ave & Lake St,406,71324,0.57
+202603,casual,start,11,CHI01749,Field Museum,402,71324,0.56
+202603,casual,start,12,CHI01163,Michigan Ave & 8th St,383,71324,0.54
+202603,casual,start,13,CHI00396,Wells St & Concord Ln,378,71324,0.53
+202603,casual,start,14,CHI00474,Clark St & Armitage Ave,376,71324,0.53
+202603,casual,start,15,CHI00332,Wells St & Hubbard St,371,71324,0.52
+202603,casual,start,16,CHI00540,Wells St & Elm St,359,71324,0.5
+202603,casual,start,17,CHI00450,Indiana Ave & Roosevelt Rd,358,71324,0.5
+202603,casual,start,18,CHI00517,Desplaines St & Kinzie St,355,71324,0.5
+202603,casual,start,19,CHI00413,Clark St & Lincoln Ave,349,71324,0.49
+202603,casual,start,20,CHI00281,Clark St & Elm St,345,71324,0.48
+202603,member,end,1,CHI02196,Clinton St & Washington Blvd 2,1653,186123,0.89
+202603,member,end,2,CHI00498,Canal St & Madison St,1596,186123,0.86
+202603,member,end,3,CHI01772,State St & Chicago Ave,1507,186123,0.81
+202603,member,end,4,CHI02181,Kingsbury St & Kinzie St 2,1378,186123,0.74
+202603,member,end,5,CHI01091,Clinton St & Jackson Blvd,1363,186123,0.73
+202603,member,end,6,CHI00396,Wells St & Concord Ln,1239,186123,0.67
+202603,member,end,7,CHI00540,Wells St & Elm St,1220,186123,0.66
+202603,member,end,8,CHI00551,University Ave & 57th St,1199,186123,0.64
+202603,member,end,9,CHI00233,Clinton St & Madison St,1190,186123,0.64
+202603,member,end,10,CHI00299,Kingsbury St & Kinzie St 1,1113,186123,0.6
+202603,member,end,11,CHI00332,Wells St & Hubbard St,1092,186123,0.59
+202603,member,end,12,CHI00245,Larrabee St & Kingsbury St 1,1016,186123,0.55
+202603,member,end,13,CHI00294,Wells St & Huron St,998,186123,0.54
+202603,member,end,14,CHI00517,Desplaines St & Kinzie St,993,186123,0.53
+202603,member,end,15,CHI01746,Clinton St & Lake St,984,186123,0.53
+202603,member,end,16,CHI00367,Orleans St & Merchandise Mart Plaza,966,186123,0.52
+202603,member,end,17,CHI00281,Clark St & Elm St,954,186123,0.51
+202603,member,end,18,CHI02028,Kingsbury St & Erie St,928,186123,0.5
+202603,member,end,19,CHI00447,LaSalle St & Jackson Blvd,926,186123,0.5
+202603,member,end,20,CHI00253,Daley Center Plaza,922,186123,0.5
+202603,member,start,1,CHI02196,Clinton St & Washington Blvd 2,1691,187939,0.9
+202603,member,start,2,CHI00498,Canal St & Madison St,1632,187939,0.87
+202603,member,start,3,CHI01772,State St & Chicago Ave,1507,187939,0.8
+202603,member,start,4,CHI01091,Clinton St & Jackson Blvd,1412,187939,0.75
+202603,member,start,5,CHI02181,Kingsbury St & Kinzie St 2,1382,187939,0.74
+202603,member,start,6,CHI00540,Wells St & Elm St,1280,187939,0.68
+202603,member,start,7,CHI00396,Wells St & Concord Ln,1222,187939,0.65
+202603,member,start,8,CHI00551,University Ave & 57th St,1213,187939,0.65
+202603,member,start,9,CHI00299,Kingsbury St & Kinzie St 1,1160,187939,0.62
+202603,member,start,10,CHI00233,Clinton St & Madison St,1123,187939,0.6
+202603,member,start,11,CHI00332,Wells St & Hubbard St,1046,187939,0.56
+202603,member,start,12,CHI00245,Larrabee St & Kingsbury St 1,1029,187939,0.55
+202603,member,start,13,CHI02028,Kingsbury St & Erie St,1028,187939,0.55
+202603,member,start,14,CHI00517,Desplaines St & Kinzie St,1015,187939,0.54
+202603,member,start,15,CHI00294,Wells St & Huron St,1011,187939,0.54
+202603,member,start,16,CHI00508,Ravenswood Ave & Lawrence Ave,995,187939,0.53
+202603,member,start,17,CHI01746,Clinton St & Lake St,980,187939,0.52
+202603,member,start,18,CHI00761,Clark St & Lake St,956,187939,0.51
+202603,member,start,19,CHI00367,Orleans St & Merchandise Mart Plaza,944,187939,0.5
+202603,member,start,20,CHI00281,Clark St & Elm St,935,187939,0.5
+202604,casual,end,1,CHI01747,Navy Pier,2942,100204,2.94
+202604,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,1646,100204,1.64
+202604,casual,end,3,CHI01742,Millennium Park,1215,100204,1.21
+202604,casual,end,4,CHI00252,Michigan Ave & Oak St,1148,100204,1.15
+202604,casual,end,5,CHI00525,DuSable Lake Shore Dr & North Blvd,831,100204,0.83
+202604,casual,end,6,CHI00533,Shedd Aquarium,817,100204,0.82
+202604,casual,end,7,CHI00420,Theater on the Lake,746,100204,0.74
+202604,casual,end,8,CHI00531,Dusable Harbor,731,100204,0.73
+202604,casual,end,9,CHI00540,Wells St & Elm St,583,100204,0.58
+202604,casual,end,10,CHI00551,University Ave & 57th St,567,100204,0.57
+202604,casual,end,11,CHI00313,Wabash Ave & Grand Ave,532,100204,0.53
+202604,casual,end,12,CHI00413,Clark St & Lincoln Ave,526,100204,0.52
+202604,casual,end,13,CHI01677,Michigan Ave & Washington St,509,100204,0.51
+202604,casual,end,14,CHI00396,Wells St & Concord Ln,508,100204,0.51
+202604,casual,end,15,CHI01163,Michigan Ave & 8th St,501,100204,0.5
+202604,casual,end,16,CHI00360,Adler Planetarium,499,100204,0.5
+202604,casual,end,17,CHI00450,Indiana Ave & Roosevelt Rd,498,100204,0.5
+202604,casual,end,18,CHI00474,Clark St & Armitage Ave,490,100204,0.49
+202604,casual,end,19,CHI01772,State St & Chicago Ave,489,100204,0.49
+202604,casual,end,20,CHI00498,Canal St & Madison St,489,100204,0.49
+202604,casual,start,1,CHI01747,Navy Pier,2759,104084,2.65
+202604,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,2010,104084,1.93
+202604,casual,start,3,CHI01742,Millennium Park,1110,104084,1.07
+202604,casual,start,4,CHI00252,Michigan Ave & Oak St,1109,104084,1.07
+202604,casual,start,5,CHI00533,Shedd Aquarium,1027,104084,0.99
+202604,casual,start,6,CHI00531,Dusable Harbor,933,104084,0.9
+202604,casual,start,7,CHI00525,DuSable Lake Shore Dr & North Blvd,841,104084,0.81
+202604,casual,start,8,CHI00420,Theater on the Lake,675,104084,0.65
+202604,casual,start,9,CHI00551,University Ave & 57th St,626,104084,0.6
+202604,casual,start,10,CHI01163,Michigan Ave & 8th St,620,104084,0.6
+202604,casual,start,11,CHI00540,Wells St & Elm St,576,104084,0.55
+202604,casual,start,12,CHI00396,Wells St & Concord Ln,555,104084,0.53
+202604,casual,start,13,CHI01749,Field Museum,546,104084,0.52
+202604,casual,start,14,CHI00474,Clark St & Armitage Ave,540,104084,0.52
+202604,casual,start,15,CHI00360,Adler Planetarium,532,104084,0.51
+202604,casual,start,16,CHI00313,Wabash Ave & Grand Ave,532,104084,0.51
+202604,casual,start,17,CHI00413,Clark St & Lincoln Ave,528,104084,0.51
+202604,casual,start,18,CHI00332,Wells St & Hubbard St,528,104084,0.51
+202604,casual,start,19,CHI00294,Wells St & Huron St,523,104084,0.5
+202604,casual,start,20,CHI01772,State St & Chicago Ave,517,104084,0.5
+202604,member,end,1,CHI02181,Kingsbury St & Kinzie St 2,2003,253764,0.79
+202604,member,end,2,CHI00551,University Ave & 57th St,1954,253764,0.77
+202604,member,end,3,CHI02196,Clinton St & Washington Blvd 2,1850,253764,0.73
+202604,member,end,4,CHI01772,State St & Chicago Ave,1834,253764,0.72
+202604,member,end,5,CHI00498,Canal St & Madison St,1763,253764,0.69
+202604,member,end,6,CHI01091,Clinton St & Jackson Blvd,1684,253764,0.66
+202604,member,end,7,CHI00540,Wells St & Elm St,1573,253764,0.62
+202604,member,end,8,CHI00332,Wells St & Hubbard St,1491,253764,0.59
+202604,member,end,9,CHI00396,Wells St & Concord Ln,1462,253764,0.58
+202604,member,end,10,CHI00233,Clinton St & Madison St,1440,253764,0.57
+202604,member,end,11,CHI00765,Ellis Ave & 60th St,1368,253764,0.54
+202604,member,end,12,CHI00294,Wells St & Huron St,1359,253764,0.54
+202604,member,end,13,CHI00449,Franklin St & Monroe St,1308,253764,0.52
+202604,member,end,14,CHI00517,Desplaines St & Kinzie St,1303,253764,0.51
+202604,member,end,15,CHI00281,Clark St & Elm St,1292,253764,0.51
+202604,member,end,16,CHI00447,LaSalle St & Jackson Blvd,1241,253764,0.49
+202604,member,end,17,CHI02028,Kingsbury St & Erie St,1240,253764,0.49
+202604,member,end,18,CHI00508,Ravenswood Ave & Lawrence Ave,1231,253764,0.49
+202604,member,end,19,CHI01746,Clinton St & Lake St,1208,253764,0.48
+202604,member,end,20,CHI00299,Kingsbury St & Kinzie St 1,1203,253764,0.47
+202604,member,start,1,CHI02181,Kingsbury St & Kinzie St 2,1992,252179,0.79
+202604,member,start,2,CHI02196,Clinton St & Washington Blvd 2,1925,252179,0.76
+202604,member,start,3,CHI00551,University Ave & 57th St,1908,252179,0.76
+202604,member,start,4,CHI00498,Canal St & Madison St,1864,252179,0.74
+202604,member,start,5,CHI01772,State St & Chicago Ave,1801,252179,0.71
+202604,member,start,6,CHI01091,Clinton St & Jackson Blvd,1716,252179,0.68
+202604,member,start,7,CHI00540,Wells St & Elm St,1653,252179,0.66
+202604,member,start,8,CHI00332,Wells St & Hubbard St,1464,252179,0.58
+202604,member,start,9,CHI00294,Wells St & Huron St,1457,252179,0.58
+202604,member,start,10,CHI00233,Clinton St & Madison St,1440,252179,0.57
+202604,member,start,11,CHI00396,Wells St & Concord Ln,1434,252179,0.57
+202604,member,start,12,CHI00517,Desplaines St & Kinzie St,1357,252179,0.54
+202604,member,start,13,CHI00765,Ellis Ave & 60th St,1324,252179,0.53
+202604,member,start,14,CHI00281,Clark St & Elm St,1318,252179,0.52
+202604,member,start,15,CHI02028,Kingsbury St & Erie St,1268,252179,0.5
+202604,member,start,16,CHI00508,Ravenswood Ave & Lawrence Ave,1258,252179,0.5
+202604,member,start,17,CHI00299,Kingsbury St & Kinzie St 1,1249,252179,0.5
+202604,member,start,18,CHI00245,Larrabee St & Kingsbury St 1,1230,252179,0.49
+202604,member,start,19,CHI00583,Ellis Ave & 55th St,1226,252179,0.49
+202604,member,start,20,CHI01746,Clinton St & Lake St,1184,252179,0.47
+202605,casual,end,1,CHI01747,Navy Pier,6301,183736,3.43
+202605,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,3919,183736,2.13
+202605,casual,end,3,CHI00525,DuSable Lake Shore Dr & North Blvd,2595,183736,1.41
+202605,casual,end,4,CHI00252,Michigan Ave & Oak St,2468,183736,1.34
+202605,casual,end,5,CHI01742,Millennium Park,2127,183736,1.16
+202605,casual,end,6,CHI00420,Theater on the Lake,2021,183736,1.1
+202605,casual,end,7,CHI00533,Shedd Aquarium,1858,183736,1.01
+202605,casual,end,8,CHI00531,Dusable Harbor,1760,183736,0.96
+202605,casual,end,9,CHI00427,Montrose Harbor,1341,183736,0.73
+202605,casual,end,10,CHI00360,Adler Planetarium,1229,183736,0.67
+202605,casual,end,11,CHI00474,Clark St & Armitage Ave,1112,183736,0.61
+202605,casual,end,12,CHI00413,Clark St & Lincoln Ave,1112,183736,0.61
+202605,casual,end,13,CHI00396,Wells St & Concord Ln,1001,183736,0.54
+202605,casual,end,14,CHI00553,Michigan Ave & Lake St,994,183736,0.54
+202605,casual,end,15,CHI01677,Michigan Ave & Washington St,983,183736,0.54
+202605,casual,end,16,CHI00450,Indiana Ave & Roosevelt Rd,981,183736,0.53
+202605,casual,end,17,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,948,183736,0.52
+202605,casual,end,18,CHI00626,Lincoln Park Conservatory,936,183736,0.51
+202605,casual,end,19,CHI00313,Wabash Ave & Grand Ave,915,183736,0.5
+202605,casual,end,20,CHI01749,Field Museum,889,183736,0.48
+202605,casual,start,1,CHI01747,Navy Pier,6129,190592,3.22
+202605,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,4384,190592,2.3
+202605,casual,start,3,CHI00252,Michigan Ave & Oak St,2451,190592,1.29
+202605,casual,start,4,CHI00525,DuSable Lake Shore Dr & North Blvd,2259,190592,1.19
+202605,casual,start,5,CHI00533,Shedd Aquarium,2129,190592,1.12
+202605,casual,start,6,CHI01742,Millennium Park,2021,190592,1.06
+202605,casual,start,7,CHI00531,Dusable Harbor,1947,190592,1.02
+202605,casual,start,8,CHI00420,Theater on the Lake,1852,190592,0.97
+202605,casual,start,9,CHI00360,Adler Planetarium,1338,190592,0.7
+202605,casual,start,10,CHI00427,Montrose Harbor,1295,190592,0.68
+202605,casual,start,11,CHI01749,Field Museum,1216,190592,0.64
+202605,casual,start,12,CHI00474,Clark St & Armitage Ave,1158,190592,0.61
+202605,casual,start,13,CHI00413,Clark St & Lincoln Ave,1120,190592,0.59
+202605,casual,start,14,CHI00450,Indiana Ave & Roosevelt Rd,1117,190592,0.59
+202605,casual,start,15,CHI00553,Michigan Ave & Lake St,1048,190592,0.55
+202605,casual,start,16,CHI01163,Michigan Ave & 8th St,1034,190592,0.54
+202605,casual,start,17,CHI00396,Wells St & Concord Ln,1009,190592,0.53
+202605,casual,start,18,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1004,190592,0.53
+202605,casual,start,19,CHI00626,Lincoln Park Conservatory,914,190592,0.48
+202605,casual,start,20,CHI01677,Michigan Ave & Washington St,906,190592,0.48
+202605,member,end,1,CHI01772,State St & Chicago Ave,2306,328061,0.7
+202605,member,end,2,CHI02181,Kingsbury St & Kinzie St 2,2179,328061,0.66
+202605,member,end,3,CHI00551,University Ave & 57th St,2165,328061,0.66
+202605,member,end,4,CHI02196,Clinton St & Washington Blvd 2,2138,328061,0.65
+202605,member,end,5,CHI00540,Wells St & Elm St,1991,328061,0.61
+202605,member,end,6,CHI00396,Wells St & Concord Ln,1964,328061,0.6
+202605,member,end,7,CHI00498,Canal St & Madison St,1897,328061,0.58
+202605,member,end,8,CHI00281,Clark St & Elm St,1789,328061,0.55
+202605,member,end,9,CHI00413,Clark St & Lincoln Ave,1739,328061,0.53
+202605,member,end,10,CHI01091,Clinton St & Jackson Blvd,1724,328061,0.53
+202605,member,end,11,CHI00332,Wells St & Hubbard St,1708,328061,0.52
+202605,member,end,12,CHI00233,Clinton St & Madison St,1693,328061,0.52
+202605,member,end,13,CHI00474,Clark St & Armitage Ave,1685,328061,0.51
+202605,member,end,14,CHI00294,Wells St & Huron St,1674,328061,0.51
+202605,member,end,15,CHI00525,DuSable Lake Shore Dr & North Blvd,1631,328061,0.5
+202605,member,end,16,CHI00299,Kingsbury St & Kinzie St 1,1620,328061,0.49
+202605,member,end,17,CHI00765,Ellis Ave & 60th St,1606,328061,0.49
+202605,member,end,18,CHI00496,Broadway & Waveland Ave,1571,328061,0.48
+202605,member,end,19,CHI00517,Desplaines St & Kinzie St,1530,328061,0.47
+202605,member,end,20,CHI01161,Halsted St & Clybourn Ave,1490,328061,0.45
+202605,member,start,1,CHI01772,State St & Chicago Ave,2250,325830,0.69
+202605,member,start,2,CHI02196,Clinton St & Washington Blvd 2,2175,325830,0.67
+202605,member,start,3,CHI00551,University Ave & 57th St,2159,325830,0.66
+202605,member,start,4,CHI02181,Kingsbury St & Kinzie St 2,2074,325830,0.64
+202605,member,start,5,CHI00540,Wells St & Elm St,1990,325830,0.61
+202605,member,start,6,CHI00396,Wells St & Concord Ln,1985,325830,0.61
+202605,member,start,7,CHI00498,Canal St & Madison St,1955,325830,0.6
+202605,member,start,8,CHI01091,Clinton St & Jackson Blvd,1817,325830,0.56
+202605,member,start,9,CHI00525,DuSable Lake Shore Dr & North Blvd,1729,325830,0.53
+202605,member,start,10,CHI00413,Clark St & Lincoln Ave,1721,325830,0.53
+202605,member,start,11,CHI00332,Wells St & Hubbard St,1714,325830,0.53
+202605,member,start,12,CHI00294,Wells St & Huron St,1710,325830,0.52
+202605,member,start,13,CHI00299,Kingsbury St & Kinzie St 1,1701,325830,0.52
+202605,member,start,14,CHI00233,Clinton St & Madison St,1666,325830,0.51
+202605,member,start,15,CHI01747,Navy Pier,1663,325830,0.51
+202605,member,start,16,CHI00281,Clark St & Elm St,1653,325830,0.51
+202605,member,start,17,CHI00517,Desplaines St & Kinzie St,1623,325830,0.5
+202605,member,start,18,CHI00474,Clark St & Armitage Ave,1616,325830,0.5
+202605,member,start,19,CHI00765,Ellis Ave & 60th St,1571,325830,0.48
+202605,member,start,20,CHI00496,Broadway & Waveland Ave,1514,325830,0.46
+202606,casual,end,1,CHI01747,Navy Pier,7947,231690,3.43
+202606,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,4532,231690,1.96
+202606,casual,end,3,CHI00525,DuSable Lake Shore Dr & North Blvd,4033,231690,1.74
+202606,casual,end,4,CHI00252,Michigan Ave & Oak St,3625,231690,1.56
+202606,casual,end,5,CHI00420,Theater on the Lake,2912,231690,1.26
+202606,casual,end,6,CHI01742,Millennium Park,2425,231690,1.05
+202606,casual,end,7,CHI00533,Shedd Aquarium,2295,231690,0.99
+202606,casual,end,8,CHI00531,Dusable Harbor,1904,231690,0.82
+202606,casual,end,9,CHI00427,Montrose Harbor,1656,231690,0.71
+202606,casual,end,10,CHI00413,Clark St & Lincoln Ave,1550,231690,0.67
+202606,casual,end,11,CHI00360,Adler Planetarium,1441,231690,0.62
+202606,casual,end,12,CHI00474,Clark St & Armitage Ave,1419,231690,0.61
+202606,casual,end,13,CHI00396,Wells St & Concord Ln,1402,231690,0.61
+202606,casual,end,14,CHI00553,Michigan Ave & Lake St,1285,231690,0.55
+202606,casual,end,15,CHI01163,Michigan Ave & 8th St,1234,231690,0.53
+202606,casual,end,16,CHI00540,Wells St & Elm St,1215,231690,0.52
+202606,casual,end,17,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1177,231690,0.51
+202606,casual,end,18,CHI01749,Field Museum,1166,231690,0.5
+202606,casual,end,19,CHI01677,Michigan Ave & Washington St,1136,231690,0.49
+202606,casual,end,20,CHI00626,Lincoln Park Conservatory,1117,231690,0.48
+202606,casual,start,1,CHI01747,Navy Pier,7905,240050,3.29
+202606,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,4745,240050,1.98
+202606,casual,start,3,CHI00252,Michigan Ave & Oak St,3620,240050,1.51
+202606,casual,start,4,CHI00525,DuSable Lake Shore Dr & North Blvd,3527,240050,1.47
+202606,casual,start,5,CHI00420,Theater on the Lake,2648,240050,1.1
+202606,casual,start,6,CHI00533,Shedd Aquarium,2467,240050,1.03
+202606,casual,start,7,CHI01742,Millennium Park,2300,240050,0.96
+202606,casual,start,8,CHI00531,Dusable Harbor,2202,240050,0.92
+202606,casual,start,9,CHI00427,Montrose Harbor,1772,240050,0.74
+202606,casual,start,10,CHI00360,Adler Planetarium,1530,240050,0.64
+202606,casual,start,11,CHI01749,Field Museum,1510,240050,0.63
+202606,casual,start,12,CHI00413,Clark St & Lincoln Ave,1478,240050,0.62
+202606,casual,start,13,CHI00474,Clark St & Armitage Ave,1450,240050,0.6
+202606,casual,start,14,CHI00396,Wells St & Concord Ln,1387,240050,0.58
+202606,casual,start,15,CHI01163,Michigan Ave & 8th St,1353,240050,0.56
+202606,casual,start,16,CHI00553,Michigan Ave & Lake St,1276,240050,0.53
+202606,casual,start,17,CHI00540,Wells St & Elm St,1233,240050,0.51
+202606,casual,start,18,CHI00279,New St & Illinois St,1160,240050,0.48
+202606,casual,start,19,CHI00450,Indiana Ave & Roosevelt Rd,1131,240050,0.47
+202606,casual,start,20,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1126,240050,0.47
+202606,member,end,1,CHI02196,Clinton St & Washington Blvd 2,2636,366742,0.72
+202606,member,end,2,CHI01772,State St & Chicago Ave,2584,366742,0.7
+202606,member,end,3,CHI02181,Kingsbury St & Kinzie St 2,2487,366742,0.68
+202606,member,end,4,CHI00525,DuSable Lake Shore Dr & North Blvd,2391,366742,0.65
+202606,member,end,5,CHI00396,Wells St & Concord Ln,2318,366742,0.63
+202606,member,end,6,CHI00498,Canal St & Madison St,2272,366742,0.62
+202606,member,end,7,CHI00540,Wells St & Elm St,2262,366742,0.62
+202606,member,end,8,CHI01747,Navy Pier,2188,366742,0.6
+202606,member,end,9,CHI00332,Wells St & Hubbard St,2135,366742,0.58
+202606,member,end,10,CHI01091,Clinton St & Jackson Blvd,2123,366742,0.58
+202606,member,end,11,CHI00299,Kingsbury St & Kinzie St 1,1993,366742,0.54
+202606,member,end,12,CHI00252,Michigan Ave & Oak St,1987,366742,0.54
+202606,member,end,13,CHI00413,Clark St & Lincoln Ave,1889,366742,0.52
+202606,member,end,14,CHI00281,Clark St & Elm St,1847,366742,0.5
+202606,member,end,15,CHI00294,Wells St & Huron St,1821,366742,0.5
+202606,member,end,16,CHI00420,Theater on the Lake,1799,366742,0.49
+202606,member,end,17,CHI00233,Clinton St & Madison St,1785,366742,0.49
+202606,member,end,18,CHI00474,Clark St & Armitage Ave,1735,366742,0.47
+202606,member,end,19,CHI00354,Pine Grove Ave & Waveland Ave,1682,366742,0.46
+202606,member,end,20,CHI00517,Desplaines St & Kinzie St,1676,366742,0.46
+202606,member,start,1,CHI02196,Clinton St & Washington Blvd 2,2604,363750,0.72
+202606,member,start,2,CHI00525,DuSable Lake Shore Dr & North Blvd,2602,363750,0.72
+202606,member,start,3,CHI01772,State St & Chicago Ave,2469,363750,0.68
+202606,member,start,4,CHI02181,Kingsbury St & Kinzie St 2,2403,363750,0.66
+202606,member,start,5,CHI00498,Canal St & Madison St,2373,363750,0.65
+202606,member,start,6,CHI00396,Wells St & Concord Ln,2344,363750,0.64
+202606,member,start,7,CHI01747,Navy Pier,2328,363750,0.64
+202606,member,start,8,CHI00540,Wells St & Elm St,2252,363750,0.62
+202606,member,start,9,CHI01091,Clinton St & Jackson Blvd,2173,363750,0.6
+202606,member,start,10,CHI00299,Kingsbury St & Kinzie St 1,2117,363750,0.58
+202606,member,start,11,CHI00332,Wells St & Hubbard St,2107,363750,0.58
+202606,member,start,12,CHI00252,Michigan Ave & Oak St,2037,363750,0.56
+202606,member,start,13,CHI00413,Clark St & Lincoln Ave,1983,363750,0.55
+202606,member,start,14,CHI00420,Theater on the Lake,1787,363750,0.49
+202606,member,start,15,CHI00281,Clark St & Elm St,1782,363750,0.49
+202606,member,start,16,CHI00294,Wells St & Huron St,1774,363750,0.49
+202606,member,start,17,CHI00474,Clark St & Armitage Ave,1709,363750,0.47
+202606,member,start,18,CHI00233,Clinton St & Madison St,1708,363750,0.47
+202606,member,start,19,CHI00354,Pine Grove Ave & Waveland Ave,1706,363750,0.47
+202606,member,start,20,CHI00517,Desplaines St & Kinzie St,1685,363750,0.46
+202607,casual,end,1,CHI01747,Navy Pier,10248,266293,3.85
+202607,casual,end,2,CHI00374,DuSable Lake Shore Dr & Monroe St,4269,266293,1.6
+202607,casual,end,3,CHI00252,Michigan Ave & Oak St,4184,266293,1.57
+202607,casual,end,4,CHI00525,DuSable Lake Shore Dr & North Blvd,3862,266293,1.45
+202607,casual,end,5,CHI00420,Theater on the Lake,3521,266293,1.32
+202607,casual,end,6,CHI01742,Millennium Park,3177,266293,1.19
+202607,casual,end,7,CHI00533,Shedd Aquarium,2356,266293,0.88
+202607,casual,end,8,CHI00427,Montrose Harbor,2069,266293,0.78
+202607,casual,end,9,CHI00531,Dusable Harbor,1919,266293,0.72
+202607,casual,end,10,CHI00474,Clark St & Armitage Ave,1637,266293,0.61
+202607,casual,end,11,CHI00413,Clark St & Lincoln Ave,1601,266293,0.6
+202607,casual,end,12,CHI01163,Michigan Ave & 8th St,1591,266293,0.6
+202607,casual,end,13,CHI00553,Michigan Ave & Lake St,1575,266293,0.59
+202607,casual,end,14,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1567,266293,0.59
+202607,casual,end,15,CHI00360,Adler Planetarium,1536,266293,0.58
+202607,casual,end,16,CHI00330,McClurg Ct & Ohio St,1429,266293,0.54
+202607,casual,end,17,CHI00279,New St & Illinois St,1409,266293,0.53
+202607,casual,end,18,CHI02366,North Avenue Beach,1399,266293,0.53
+202607,casual,end,19,CHI01677,Michigan Ave & Washington St,1388,266293,0.52
+202607,casual,end,20,CHI00396,Wells St & Concord Ln,1382,266293,0.52
+202607,casual,start,1,CHI01747,Navy Pier,10110,277377,3.64
+202607,casual,start,2,CHI00374,DuSable Lake Shore Dr & Monroe St,4576,277377,1.65
+202607,casual,start,3,CHI00252,Michigan Ave & Oak St,4182,277377,1.51
+202607,casual,start,4,CHI00525,DuSable Lake Shore Dr & North Blvd,3588,277377,1.29
+202607,casual,start,5,CHI00420,Theater on the Lake,3122,277377,1.13
+202607,casual,start,6,CHI01742,Millennium Park,3119,277377,1.12
+202607,casual,start,7,CHI00533,Shedd Aquarium,2637,277377,0.95
+202607,casual,start,8,CHI00427,Montrose Harbor,2161,277377,0.78
+202607,casual,start,9,CHI00531,Dusable Harbor,2153,277377,0.78
+202607,casual,start,10,CHI01163,Michigan Ave & 8th St,1930,277377,0.7
+202607,casual,start,11,CHI00360,Adler Planetarium,1753,277377,0.63
+202607,casual,start,12,CHI00279,New St & Illinois St,1717,277377,0.62
+202607,casual,start,13,CHI00413,Clark St & Lincoln Ave,1627,277377,0.59
+202607,casual,start,14,CHI00493,DuSable Lake Shore Dr & Diversey Pkwy,1586,277377,0.57
+202607,casual,start,15,CHI00474,Clark St & Armitage Ave,1582,277377,0.57
+202607,casual,start,16,CHI00396,Wells St & Concord Ln,1542,277377,0.56
+202607,casual,start,17,CHI00553,Michigan Ave & Lake St,1498,277377,0.54
+202607,casual,start,18,CHI00330,McClurg Ct & Ohio St,1453,277377,0.52
+202607,casual,start,19,CHI01749,Field Museum,1443,277377,0.52
+202607,casual,start,20,CHI00450,Indiana Ave & Roosevelt Rd,1422,277377,0.51
+202607,member,end,1,CHI01772,State St & Chicago Ave,2843,406155,0.7
+202607,member,end,2,CHI02181,Kingsbury St & Kinzie St 2,2842,406155,0.7
+202607,member,end,3,CHI02196,Clinton St & Washington Blvd 2,2745,406155,0.68
+202607,member,end,4,CHI01747,Navy Pier,2715,406155,0.67
+202607,member,end,5,CHI00525,DuSable Lake Shore Dr & North Blvd,2681,406155,0.66
+202607,member,end,6,CHI00498,Canal St & Madison St,2497,406155,0.61
+202607,member,end,7,CHI00396,Wells St & Concord Ln,2462,406155,0.61
+202607,member,end,8,CHI00332,Wells St & Hubbard St,2371,406155,0.58
+202607,member,end,9,CHI00540,Wells St & Elm St,2352,406155,0.58
+202607,member,end,10,CHI01091,Clinton St & Jackson Blvd,2318,406155,0.57
+202607,member,end,11,CHI00233,Clinton St & Madison St,2232,406155,0.55
+202607,member,end,12,CHI00330,McClurg Ct & Ohio St,2215,406155,0.55
+202607,member,end,13,CHI00420,Theater on the Lake,2162,406155,0.53
+202607,member,end,14,CHI00294,Wells St & Huron St,2139,406155,0.53
+202607,member,end,15,CHI00299,Kingsbury St & Kinzie St 1,2130,406155,0.52
+202607,member,end,16,CHI00252,Michigan Ave & Oak St,2088,406155,0.51
+202607,member,end,17,CHI00413,Clark St & Lincoln Ave,1980,406155,0.49
+202607,member,end,18,CHI00281,Clark St & Elm St,1968,406155,0.48
+202607,member,end,19,CHI02327,Dearborn St & Erie St,1934,406155,0.48
+202607,member,end,20,CHI00496,Broadway & Waveland Ave,1927,406155,0.47
+202607,member,start,1,CHI01747,Navy Pier,2926,402458,0.73
+202607,member,start,2,CHI02196,Clinton St & Washington Blvd 2,2826,402458,0.7
+202607,member,start,3,CHI02181,Kingsbury St & Kinzie St 2,2810,402458,0.7
+202607,member,start,4,CHI01772,State St & Chicago Ave,2803,402458,0.7
+202607,member,start,5,CHI00525,DuSable Lake Shore Dr & North Blvd,2590,402458,0.64
+202607,member,start,6,CHI00498,Canal St & Madison St,2534,402458,0.63
+202607,member,start,7,CHI01091,Clinton St & Jackson Blvd,2389,402458,0.59
+202607,member,start,8,CHI00540,Wells St & Elm St,2364,402458,0.59
+202607,member,start,9,CHI00396,Wells St & Concord Ln,2316,402458,0.58
+202607,member,start,10,CHI00332,Wells St & Hubbard St,2315,402458,0.58
+202607,member,start,11,CHI00330,McClurg Ct & Ohio St,2227,402458,0.55
+202607,member,start,12,CHI00420,Theater on the Lake,2197,402458,0.55
+202607,member,start,13,CHI00252,Michigan Ave & Oak St,2175,402458,0.54
+202607,member,start,14,CHI00233,Clinton St & Madison St,2095,402458,0.52
+202607,member,start,15,CHI00299,Kingsbury St & Kinzie St 1,2086,402458,0.52
+202607,member,start,16,CHI00294,Wells St & Huron St,2072,402458,0.51
+202607,member,start,17,CHI02327,Dearborn St & Erie St,2022,402458,0.5
+202607,member,start,18,CHI00413,Clark St & Lincoln Ave,1981,402458,0.49
+202607,member,start,19,CHI00474,Clark St & Armitage Ave,1966,402458,0.49
+202607,member,start,20,CHI00281,Clark St & Elm St,1938,402458,0.48

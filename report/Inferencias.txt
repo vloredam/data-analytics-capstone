@@ -1,0 +1,90 @@
+Casual %:	35.63%
+Member %:	64.37%
+
+Sazonalidade:
+- Piores meses - Dec, Jan with ~27% and Feb with ~40% da AVG mensal;
+- Jun + Jul + Aug com 150%+ da AVG mensal
+
+
+AVG:
+- Ratio de classic x electric similar between both groups (classic = 28.47% x 32.9%; electric = 71.53% x 67.1%)
+
+
+
+Casual + classic:
+- Maior duracao media em todos os meses 33+ minutes (AVG ~39,5 minutes);
+- Menor numero de rides ~10% do total
+
+
+Casual + electric:
+- ~25.5% do total de rides
+
+
+
+Members + classic:
+- Apesar de proporcionalmente serem menos rides quando comparado a Member + Electric, ainda eh um numbero alto (proximo a Casual + Electric)
+- AVG duration eh relativamente constante durante o ano (um pouco mais longa durante o inverno, maiores medias em Dezembro e Janeiro - menor velocidade media por conta de neve? Porem, menores medianas no msm periodo, provavelmente por conta de frio extremo, menos pessoas andam e quem anda anda menos?)
+
+
+Member + Electric:
+- Aqui eh o oposto, menores medias durante (<10 minutes) em Dec, Jan e Feb; maior risco por conta da maior velocidade do veiculo? Mais frio por conta da velocidade?
+
+
+classic x electric ratio:
+- Casual: Electric > ~1.9-3x (dependendo do mes)
+- Members: Electric > ~1.7-2.2x (dependendo do mes)
+- Members: Proprotionaly uses more Electric bikes during summer time (to avoid swetting?)
+- Casual e Members com Classic bike tem as maiores ride durations medias em Janeiro. Porem medianas sao "slighly lower" than December. Seria isso um efeito da baixa demanda/menor numero total de rides nesse periodo? Evento especial? Ferias? Feriados?
+
+
+Ride Duration:
+- Mean (33.64 - 46.61) enquanto P75 (17.17 - 33.77)
+- Electric bikes menor AVG, Median, P25 e P75 (mais rapida = rides mais curtas? Uso como transporte e nao lazer?)
+- Talvez 2 grupos de casual (turistas e galera q passeia no final de semana)
+
+
+
+
+Intervalos:
+2025-12:
+classic: Dominio total de members em todos os intervalos, exceto 60-120 (~75% + casuals)
+electric: Dominio total de members em todos os intervalos
+
+2026-01:
+classic: Dominio total de members em todos os intervalos, exceto 60-120 (~30% + casuals) 
+electric: Dominio total de members em todos os intervalos
+
+* Total de rides (member + electric) em 2025-12 e 2026-01 identico (74631 x 74973)
+
+2025-08:
+classic: 0-30 = mais rides de membros, com diferenca diminuindo
+30+ predominio de casuals. 120+ tem 12x mais casual rides.
+electric: comportamento similar a classic, com a diferenca para rides 60+ sendo proporcionalmente menor que na classic; para 120+ o numero de rides se aproxima (~20%+ casuals) - Limitacao da bateria da bike eletrica para longas viagem?
+
+2026-07:
+classic: 0-40 = mais rides de membros, com diferenca diminuindo
+40+ predominio de casuals; intervalos 60+ tem 8x mais casuals
+electric: 0-30 = mais rides de membros, com diferenca diminuindo
+30+ predominio de casuals. 60+ tem 3x mais casual rides; para 120+ o numero de rides se aproxima (~20%+ casuals) - Limitacao da bateria da bike eletrica para longas viagem?
+
+
+Tenho a impressao que os outros meses nao serao mto diferente desse padrao. Acho que consigo pensar em hipoteses para o "dominio" dos members durante o inverno, como a ideia "ja que estao pagando, entao vou usar", ou talvez por estarem mto perto ou mto longo do trabalho e nao terem acesso a carro ou public transportation. Ainda acho q os intervalos tem pouco a contribuir para nossa resposta principal.
+
+
+
+Uma coisa que me chamou a atencao foi que me parece haver uma tendencia de diminuicao do uso de classic bike e aumento do uso de electric bike. Infelizmente nao temos o mesmo mes repetidos para comparar as diferencas ano a ano. 
+
+Mas comparando 2025-08 com 2026-06 e 2026-07 temos menos rides classic e mais rides electric.
+
+Pode ser uma maior disponibilidade de electric bikes, mais recharge points, maior autonomia, maior adocao de electric bikes como uma tendencia, criacao de ciclovias que permitem mais seguranca e maior velocidade, o clima desse ano esta melhor, alguma campanha publicitaria dando bonus ou desconto para o uso de electric bikes... mtas ideias, mas nada que de para provar ainda.
+
+Talvez analisar os start_at e end_at e ver se tem novos spots que surgiram recentemente posso ajudar a entender um pouco dessa dinamica. Mas acho q nao exploraria mto alem disso pq me parece obvio que aumentar a quantidade de estacoes, principalmente em pontos estrategicos, vai aumentar a quantidade de usuarios - membros e casuals.
+
+Oq ta me parecendo eh que nao chegaremos a uma resposta objetiva. Provavelmente a conclusao sera generica e apontando uma tendencia que nao temos tantos dados para suportar.
+
+
+Olhando para os dados de novo eu lembrei de uma coisa q nao lembro se ja tinha trazido para nossas conversas - a porcentagem relativa de casual rides caem pela metade durante os meses de inverno, elas representam entre 37% e 43% do total de rides durante os meses mais quentes (Maio-Agosto) e caem para ~18% no pior mes (Dezembro) e ~20% em Novembro e Janeiro. 
+
+Nesses periodos o numero total de rides sai de ~800.000 em Julho e Agosto para 140.000 em Dezembro e Janeiro.
+
+Que insight isso me da? Nao mtos, o numero total de rides cai 75%+ durante os meses de inverno e ja ter o membership pode ser um estimulo para continuar fazendo as rides e talvez isso justifique a diferenca de composicao member-casual nesses meses. E de novo, nao sabemos se os casuals que andam no inverno sao os msm que andam no verao, talvez sejam publicos distintos ou com pouco overlap para focar na conversao casual para member.
