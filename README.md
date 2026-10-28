@@ -58,6 +58,11 @@ Finally, the 12-month study period provides useful insights into seasonal variat
 Python · SQL (DuckDB) · Microsoft Excel
 
 
+## AI-Assisted Development
+
+AI-assisted coding tools were used during the development of portions of this analysis. They were used as a learning, problem-solving, and productivity aid. Analytical decisions, methodology, validation, interpretation, and final conclusions were reviewed and determined by the author.
+
+
 ## About the Case Study
 
 This project was developed as part of the Google Data Analytics Professional Certificate capstone case study.
